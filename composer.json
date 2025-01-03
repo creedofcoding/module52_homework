@@ -1,0 +1,11 @@
+{
+    "name": "admin/module52_homework",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Module52Homework\\": "src/"
+        }
+    },
+    "require": {
+        "monolog/monolog": "^3.8"
+    }
+}
